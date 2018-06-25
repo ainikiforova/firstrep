@@ -1,4 +1,3 @@
 <? echo 'hello, world!';
-    echo 'hello, github and www';
-
+    echo 'hello, github';
 ?>
